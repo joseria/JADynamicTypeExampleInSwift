@@ -3,12 +3,12 @@ JADynamicTypeExampleInSwift
 
 ##Example Project
 An example project is provided that requires IOS8 and XCode 6.0. 
-Developer and designers sometimes have a hard time visualizing the various dynamic type font styles available in IOS 7+. I've build this sample project to give a visual represenation of how these font styles look on labels, buttons, and within a view. Currently only available for iPad. 
+Developer and designers sometimes have a hard time visualizing the various dynamic type font styles available in IOS 7+. I've build this sample project to give a visual represenation of how these font styles look on labels, buttons, and within a view. Available for both iPhone and iPad. 
 
 Play around and enjoy. 
 
 ![image](http://i.imgur.com/jiQNAvx.png)
-
+![image](http://i.imgur.com/iIdDeKe.png)
 
 ##Creator
 Jose Alvarez
