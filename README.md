@@ -8,7 +8,6 @@ Developer and designers sometimes have a hard time visualizing the various dynam
 Play around and enjoy. 
 
 ![image](http://i.imgur.com/jiQNAvx.png)
-![image](http://i.imgur.com/iIdDeKe.png)
 
 ##Creator
 Jose Alvarez
