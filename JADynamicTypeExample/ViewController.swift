@@ -70,7 +70,7 @@ class ViewController: UIViewController {
         let boldFontDescriptor = fontDescriptor.fontDescriptorWithSymbolicTraits(UIFontDescriptorSymbolicTraits.TraitBold)
         boldLabel.font  = UIFont(descriptor:boldFontDescriptor, size:0)
         
-        NSNotificationCenter.defaultCenter().addObserverForName(UIContentSizeCategoryDidChangeNotification, object: nil, queue: NSOperationQueue.mainQueue()) { (note:NSNotification!) -> Void in
+        NSNotificationCenter.defaultCenter().addObserverForName(UIContentSizeCategoryDidChangeNotification, object: nil, queue: NSOperationQueue.mainQueue()) { (note:NSNotification) -> Void in
             self.handleContentSizeCategoryDidChangeNotification()
         }
     }
